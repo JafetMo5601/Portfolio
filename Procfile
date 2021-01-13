@@ -1,1 +1,1 @@
-web: gunicorn Portfolio_JMU.app --log-file -
+web: gunicorn app:app --log-file -
