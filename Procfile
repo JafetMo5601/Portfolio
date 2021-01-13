@@ -1,1 +1,1 @@
-web: gunicorn --bind 0.0.0.0:$PORT app:app
+web: gunicorn Portfolio_JMU.app --log-file -
