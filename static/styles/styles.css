@@ -511,61 +511,6 @@ div#Message {
 }
 /* End Projects section */
 
-/* Skills section*/
-#skills .skills {
-    flex-direction: column;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 100px 0;
-}
-
-#skills .all-skills{
-    width: 50%;
-    margin-top: 50px;
-}
-
-.skill-item {
-    margin-top: 10px;
-    background-color: #D3D3D3;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    transition-property: margin;
-    transition-duration: 1.5s;
-}
-
-.skill-item ul{
-    color: transparent;
-}
-
-.skill-item:hover{
-    transition-property: margin;
-    transition-duration: 1.5s;
-    margin-bottom: 200px;
-}
-
-.skill-item h2{
-    font-weight: 400;
-    letter-spacing: .05rem;
-    padding: 12px;
-    width: 90%;
-    color: white;
-    background-color: #004A86;
-
-}
-
-.skill-item div {
-    font-weight: 450;
-    margin: auto 15px;
-}
-
-.skill-item span{
-    animation: text_reveal_box 1.5s ease;
-    animation-delay: 1s;
-}
-/* End Skills section */
-
 /* Awards Section */
 #awards .awards {
     flex-direction: column;
@@ -599,7 +544,7 @@ div#Message {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(/static/images/img-7.jpg);
+    background-image: url(/static/images/Award_img.jpg);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
