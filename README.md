@@ -1,7 +1,11 @@
 # Jafet's Porfolio
 
-Jafet's portfolio is a project to show my profile as a Software Developer
+This is the source code to my portfolio as a Software Developer.
 
-# Access
+## Access
 
 You can access to my porfolio by this url: https://jafet-portfolio.herokuapp.com/
+
+## Contribution
+
+Found a bug or something wrong in the site? Send me a pull request:)
